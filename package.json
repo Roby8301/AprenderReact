@@ -1,0 +1,20 @@
+{
+  "name": "aprenderreact-1",
+  "version": "1.0.0",
+  "description": "Aprender React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roby8301/AprenderReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roby8301/AprenderReact/issues"
+  },
+  "homepage": "https://github.com/Roby8301/AprenderReact#readme"
+}
